@@ -2,7 +2,7 @@
    This cache version follows the packaged index content hash. */
 'use strict';
 const CACHE_PREFIX='birmano-a2b1-pwa-';
-const CACHE_NAME=CACHE_PREFIX+'843274bd1255241d';
+const CACHE_NAME=CACHE_PREFIX+'8c946bd7c0a19b71';
 const INDEX=new URL('./index.html',self.registration.scope).href;
 const PRECACHE=['./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 

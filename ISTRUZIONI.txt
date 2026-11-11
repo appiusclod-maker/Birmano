@@ -1,0 +1,27 @@
+BIRMANO A2 + B1 — AGGIORNAMENTO UNICO COMPLETO (11 novembre 2026)
+
+Questo aggiornamento riprende la versione avanzata realizzata nell’altra chat,
+non la precedente versione limitata alle canzoni B1 A–H.
+
+INCLUDE
+- B1 Studio e Lettura A–T: spiegazioni, 20 testi/letture, traduzioni italiane.
+- Ascolto B1 A–T: 20 canzoni testuali (B1 F/G sono nella stessa unità),
+  glossari, colori grammaticali, spunte e mostra/nascondi tutte le traduzioni.
+- Le sezioni Completa e Comunica e le traduzioni degli esercizi B1 già integrate.
+- Collegamenti Suno recuperati dai 19 codici embed della chat precedente,
+  convertiti in link /song/ diretti e NESSUN iframe/embed.
+- B1 I: il suo vecchio iframe duplicava B1 M; non lo assegniamo a un brano sbagliato.
+- A2 R/Y: testi, glosse e link Suno preservati.
+- B1 H: link da embed e collegamento breve della precedente versione.
+- Progressi: 200 A2 + 100 B1, stessi identificatori localStorage.
+
+INSTALLAZIONE GITHUB PAGES
+1. Nell’app attuale esporta un backup JSON per precauzione.
+2. Estrai questo ZIP: per l’aggiornamento bastano index.html e sw.js.
+3. Apri https://github.com/appiusclod-maker/Birmano e sostituisci
+   index.html e sw.js nella RADICE del repository. Premi Commit changes.
+4. Apri https://appiusclod-maker.github.io/Birmano/ con Internet attivo,
+   accetta la nuova versione se viene proposta.
+5. Non cancellare i dati dell’app/disinstallarla se non hai il backup.
+
+I link Suno richiedono rete. Il testo e le parti di studio possono restare offline.
